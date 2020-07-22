@@ -1,0 +1,1 @@
+export {GridviewComponent} from './GridviewComponent';

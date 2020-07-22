@@ -1,0 +1,3 @@
+export const GET_SPACE_DATA = 'GET_SPACE_DATA';
+export const SET_SPACE_DATA='SET_SPACE_DATA';
+export const GET_PAD_DETAILS = 'GET_PAD_DETAILS';

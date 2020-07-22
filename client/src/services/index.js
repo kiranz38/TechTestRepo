@@ -1,0 +1,1 @@
+export {getSpaceData,setSpaceData,getPadDetail} from './servicefactory';
